@@ -1,1 +1,1 @@
-# My_ads_txt
+ads.txt
